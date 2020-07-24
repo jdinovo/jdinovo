@@ -1,1 +1,1 @@
-![James DiNovo's Github Stats](https://github-readme-stats.vercel.app/api?username=jdinovo&show_icons=true&hide_border=true)
+![James DiNovo's Github Stats](https://github-readme-stats.vercel.app/api?username=jdinovo&count_private=true&show_icons=true&hide_border=true)
